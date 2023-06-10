@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raziel", "Raziel\Raziel.csproj", "{AD094307-805E-470F-BCCD-7EA9EC4E2D68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raziel.Core", "Raziel.Core\Raziel.Core.csproj", "{CA6DD3C2-CC5B-401F-8725-4DFDF47DF272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raziel.Database", "Raziel.Database\Raziel.Database.csproj", "{421ED364-F1B5-4737-9B6C-87289D1DB9D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{AD094307-805E-470F-BCCD-7EA9EC4E2D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD094307-805E-470F-BCCD-7EA9EC4E2D68}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AD094307-805E-470F-BCCD-7EA9EC4E2D68}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CA6DD3C2-CC5B-401F-8725-4DFDF47DF272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6DD3C2-CC5B-401F-8725-4DFDF47DF272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6DD3C2-CC5B-401F-8725-4DFDF47DF272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6DD3C2-CC5B-401F-8725-4DFDF47DF272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421ED364-F1B5-4737-9B6C-87289D1DB9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421ED364-F1B5-4737-9B6C-87289D1DB9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421ED364-F1B5-4737-9B6C-87289D1DB9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421ED364-F1B5-4737-9B6C-87289D1DB9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
